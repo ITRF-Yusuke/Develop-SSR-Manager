@@ -25,3 +25,5 @@
 
 - Android 9.0（API 28）以上
 - 開発端末：POCO X7 Pro
+
+<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/ce84bcc1-1186-4ddc-a778-5f54a1ce0433" />
