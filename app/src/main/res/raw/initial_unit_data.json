@@ -1,0 +1,282 @@
+[
+  {
+    "seq": 1,
+    "seriesName": "機動戦士ガンダム",
+    "unitName": "ビグ・ザム",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 2,
+    "seriesName": "機動戦士ガンダム",
+    "unitName": "ギャン・エーオース",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 3,
+    "seriesName": "機動戦士ガンダム",
+    "unitName": "G-3ガンダム",
+    "acquisitionMethod": "HARD2",
+    "firstClearReward": "HARD2"
+  },
+  {
+    "seq": 4,
+    "seriesName": "機動戦士ガンダム",
+    "unitName": "ジオング",
+    "acquisitionMethod": "HARD3",
+    "firstClearReward": "HARD3"
+  },
+  {
+    "seq": 5,
+    "seriesName": "機動戦士Zガンダム",
+    "unitName": "Zガンダム",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 6,
+    "seriesName": "機動戦士Zガンダム",
+    "unitName": "百式",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 7,
+    "seriesName": "機動戦士Zガンダム",
+    "unitName": "サイコガンダム",
+    "acquisitionMethod": "HARD2",
+    "firstClearReward": "HARD2"
+  },
+  {
+    "seq": 8,
+    "seriesName": "機動戦士Zガンダム",
+    "unitName": "ジ・O",
+    "acquisitionMethod": "HARD3",
+    "firstClearReward": "HARD3"
+  },
+  {
+    "seq": 9,
+    "seriesName": "機動戦士Zガンダム",
+    "unitName": "キュベレイ",
+    "acquisitionMethod": "HARD3",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 10,
+    "seriesName": "機動戦士ガンダムZZ",
+    "unitName": "フルアーマーZZガンダム",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 11,
+    "seriesName": "機動戦士ガンダムZZ",
+    "unitName": "ザクⅢ改",
+    "acquisitionMethod": "HARD2",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 12,
+    "seriesName": "機動戦士ガンダムZZ",
+    "unitName": "ゲーマルク",
+    "acquisitionMethod": "HARD2",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 13,
+    "seriesName": "機動戦士ガンダムZZ",
+    "unitName": "キュベレイ(ZZ版)",
+    "acquisitionMethod": "HARD2",
+    "firstClearReward": "HARD2"
+  },
+  {
+    "seq": 14,
+    "seriesName": "機動戦士ガンダムZZ",
+    "unitName": "クィン・マンサ",
+    "acquisitionMethod": "HARD3",
+    "firstClearReward": "HARD3"
+  },
+  {
+    "seq": 15,
+    "seriesName": "機動武闘伝Gガンダム",
+    "unitName": "ガンダムシュピーゲル",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 16,
+    "seriesName": "機動武闘伝Gガンダム",
+    "unitName": "マスターガンダム",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 17,
+    "seriesName": "機動武闘伝Gガンダム",
+    "unitName": "デビルガンダム(第1形態)",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 18,
+    "seriesName": "新機動戦記ガンダムW",
+    "unitName": "トールギスⅡ",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 19,
+    "seriesName": "新機動戦記ガンダムW",
+    "unitName": "ガンダムエピオン",
+    "acquisitionMethod": "HARD2",
+    "firstClearReward": "HARD2"
+  },
+  {
+    "seq": 20,
+    "seriesName": "新機動戦記ガンダムW",
+    "unitName": "ウイングガンダムゼロ",
+    "acquisitionMethod": "HARD3",
+    "firstClearReward": "HARD3"
+  },
+  {
+    "seq": 21,
+    "seriesName": "新機動戦記ガンダムW",
+    "unitName": "ガンダムデスサイズヘル",
+    "acquisitionMethod": "HARD3",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 22,
+    "seriesName": "新機動戦記ガンダムW",
+    "unitName": "アルトロンガンダム",
+    "acquisitionMethod": "HARD3",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 23,
+    "seriesName": "機動新世紀ガンダムX",
+    "unitName": "ガンダムXディバイダー",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 24,
+    "seriesName": "機動新世紀ガンダムX",
+    "unitName": "ベルティゴ",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 25,
+    "seriesName": "機動新世紀ガンダムX",
+    "unitName": "パトゥーリア",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 26,
+    "seriesName": "機動戦士ガンダムSEED",
+    "unitName": "パーフェクトストライクガンダム",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 27,
+    "seriesName": "機動戦士ガンダムSEED",
+    "unitName": "フリーダムガンダム(ミーティア)",
+    "acquisitionMethod": "HARD2",
+    "firstClearReward": "HARD2"
+  },
+  {
+    "seq": 28,
+    "seriesName": "機動戦士ガンダムSEED",
+    "unitName": "ジャスティスガンダム(ミーティア)",
+    "acquisitionMethod": "HARD2",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 29,
+    "seriesName": "機動戦士ガンダムSEED",
+    "unitName": "プロヴィデンスガンダム",
+    "acquisitionMethod": "HARD3",
+    "firstClearReward": "HARD3"
+  },
+  {
+    "seq": 30,
+    "seriesName": "機動戦士ガンダムSEED Recollection",
+    "unitName": "ドラグーンストライク",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 31,
+    "seriesName": "機動戦士ガンダムSEED Recollection",
+    "unitName": "ムラサメ 飛行能力試験型",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 32,
+    "seriesName": "機動戦士ガンダム00",
+    "unitName": "GNアーマー TYPE-E",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 33,
+    "seriesName": "機動戦士ガンダム00",
+    "unitName": "GNアーマー TYPE-D",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 34,
+    "seriesName": "機動戦士ガンダム00",
+    "unitName": "アルヴァトーレ",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 35,
+    "seriesName": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "unitName": "ガンダム・バルバトス(第6形態)",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 36,
+    "seriesName": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "unitName": "ガンダム・グシオンリベイク",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 37,
+    "seriesName": "機動戦士ガンダム 鉄血のオルフェンズ",
+    "unitName": "グレイズ・アイン",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 38,
+    "seriesName": "機動戦士ガンダム 水星の魔女",
+    "unitName": "ガンダム・エアリアル改修型",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "HARD1"
+  },
+  {
+    "seq": 39,
+    "seriesName": "機動戦士ガンダム 水星の魔女",
+    "unitName": "ガンダム・ルブリス・ウル",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  },
+  {
+    "seq": 40,
+    "seriesName": "機動戦士ガンダム 水星の魔女",
+    "unitName": "ガンダム・ルブリス・ソーン",
+    "acquisitionMethod": "HARD1",
+    "firstClearReward": "-"
+  }
+]

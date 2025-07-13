@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- app name -->
+    <string name="app_name">Dev SSR Mgr</string>
+
+    <!-- UI -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_add">Add</string>
+    <string name="button_close">Close</string>
+    <string name="button_apply">Apply data</string>
+    <string name="button_add_account">Add account</string>
+    <string name="button_del_account">Del account</string>
+    <string name="button_get_data_from_server">Get from server</string>
+
+    <!-- title -->
+    <string name="title_unit_data_update">Update unit data</string>
+    <string name="title_account_deletion_confirmation">Account deletion confirmation</string>
+
+
+    <!-- message -->
+    <string name="message_input_account_name">Please enter your account name.</string>
+    <string name="message_succeeded_get_master_data_json">Succeeded to get data.</string>
+    <string name="message_confirm_get_master_data">Do you want to get updates from the server?</string>
+    <string name="message_confirm_delete_account">If I delete your account I won\'t be able to get it back, is that okay?</string>
+    <string name="message_getting_from_server">Getting from server…</string>
+
+    <!-- item name -->
+    <string name="item_name_acquisition_method">acquisition method:</string>
+    <string name="item_name_first_clear_reward">first clear reward:</string>
+    <string name="item_name_technical_manual">technical manual:</string>
+    <string name="item_name_breakthrough_count">breakthrough count:</string>
+    <string name="item_name_unit_name">unit name</string>
+    <string name="item_name_series_name">series name</string>
+
+    <!-- hint -->
+    <string name="hint_master_data_json">Please set the master data.</string>
+    <string name="hint_search_by_unit_name">Search by unit name</string>
+
+    <!-- error -->
+    <string name="error_failed_get_master_data_json">Failed to get data.</string>
+
+</resources>

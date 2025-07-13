@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- app name -->
+    <string name="app_name">開発SSR管理</string>
+
+    <!-- UI -->
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">キャンセル</string>
+    <string name="button_add">追加</string>
+    <string name="button_close">閉じる</string>
+    <string name="button_apply">データ反映</string>
+    <string name="button_add_account">アカウントを追加</string>
+    <string name="button_del_account">アカウントを削除</string>
+    <string name="button_get_data_from_server">サーバから取得</string>
+
+    <!-- title -->
+    <string name="title_account_deletion_confirmation">アカウント削除確認</string>
+    <string name="title_unit_data_update">機体データ更新</string>
+
+    <!-- message -->
+    <string name="message_input_account_name">アカウント名を入力してください</string>
+    <string name="message_succeeded_get_master_data_json">データ取得に成功しました</string>
+    <string name="message_confirm_get_master_data">サーバから更新データを取得しますか？</string>
+    <string name="message_confirm_delete_account">アカウントを消すと戻せませんがよろしいですか？</string>
+    <string name="message_getting_from_server">サーバから取得中…</string>
+
+    <!-- item name -->
+    <string name="item_name_acquisition_method">入手経路：</string>
+    <string name="item_name_first_clear_reward">初回クリア報酬:</string>
+    <string name="item_name_technical_manual">研究技術書：</string>
+    <string name="item_name_breakthrough_count">限界突破：</string>
+    <string name="item_name_unit_name">機体名</string>
+    <string name="item_name_series_name">シリーズ名</string>
+
+    <!-- hint -->
+    <string name="hint_master_data_json">マスターデータを設定してください</string>
+    <string name="hint_search_by_unit_name">機体名で検索</string>
+
+    <!-- error -->
+    <string name="error_failed_get_master_data_json">データ取得に失敗しました</string>
+
+
+</resources>
